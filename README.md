@@ -190,5 +190,5 @@ Built with ❤️ using Streamlit and Hugging Face.
 
 ---
 
-# 📊 Demo 
-(Demo Link)[https://drive.google.com/file/d/1CMbLwvJJ2AKB0DivAR-Uo2k7NU7etc4J/view?usp=sharing]
+# 🚀 Demo 
+**Live Demo:** [https://drive.google.com/file/d/1CMbLwvJJ2AKB0DivAR-Uo2k7NU7etc4J/view?usp=sharing]
